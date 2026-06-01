@@ -20,14 +20,15 @@ AI powered resume Talent screening Portal and JD matching project using NLP and 
 ## Live Demo
 https://ai-resume-pro-bp22afmcwvkp27jw5xikyh.streamlit.app/
 
+## Screenshots
+
 ### Homepage View
-![Homepage](screenshots/Screenshot%20(3).png)
+![Homepage](https://raw.githubusercontent.com/hridya1/Talent-Screening-Portal_Resume-Categoriser/main/screenshots/Screenshot%20(3).png)
 
 ### Resume Classification
-![Classification](screenshots/Screenshot%20(4).png)
+![Classification](https://raw.githubusercontent.com/hridya1/Talent-Screening-Portal_Resume-Categoriser/main/screenshots/Screenshot%20(4).png)
 
 ### JD Matching
-![JD Matching](screenshots/Screenshot%20(5).png)
-
+![JD Matching](https://raw.githubusercontent.com/hridya1/Talent-Screening-Portal_Resume-Categoriser/main/screenshots/Screenshot%20(5).png)
 ## Author
 Hridya Indraganti
